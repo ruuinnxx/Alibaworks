@@ -1,0 +1,14 @@
+C:\Users\Lenov o\Work1\PracticeWork1\bin\Debug\net9.0\PracticeWork1.exe
+C:\Users\Lenov o\Work1\PracticeWork1\bin\Debug\net9.0\PracticeWork1.deps.json
+C:\Users\Lenov o\Work1\PracticeWork1\bin\Debug\net9.0\PracticeWork1.runtimeconfig.json
+C:\Users\Lenov o\Work1\PracticeWork1\bin\Debug\net9.0\PracticeWork1.dll
+C:\Users\Lenov o\Work1\PracticeWork1\bin\Debug\net9.0\PracticeWork1.pdb
+C:\Users\Lenov o\Work1\PracticeWork1\obj\Debug\net9.0\PracticeWork1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenov o\Work1\PracticeWork1\obj\Debug\net9.0\PracticeWork1.AssemblyInfoInputs.cache
+C:\Users\Lenov o\Work1\PracticeWork1\obj\Debug\net9.0\PracticeWork1.AssemblyInfo.cs
+C:\Users\Lenov o\Work1\PracticeWork1\obj\Debug\net9.0\PracticeWork1.csproj.CoreCompileInputs.cache
+C:\Users\Lenov o\Work1\PracticeWork1\obj\Debug\net9.0\PracticeWork1.dll
+C:\Users\Lenov o\Work1\PracticeWork1\obj\Debug\net9.0\refint\PracticeWork1.dll
+C:\Users\Lenov o\Work1\PracticeWork1\obj\Debug\net9.0\PracticeWork1.pdb
+C:\Users\Lenov o\Work1\PracticeWork1\obj\Debug\net9.0\PracticeWork1.genruntimeconfig.cache
+C:\Users\Lenov o\Work1\PracticeWork1\obj\Debug\net9.0\ref\PracticeWork1.dll

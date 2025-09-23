@@ -1,0 +1,14 @@
+C:\Users\Lenov o\Work1\PracticeWork2\bin\Debug\net9.0\PracticeWork2.exe
+C:\Users\Lenov o\Work1\PracticeWork2\bin\Debug\net9.0\PracticeWork2.deps.json
+C:\Users\Lenov o\Work1\PracticeWork2\bin\Debug\net9.0\PracticeWork2.runtimeconfig.json
+C:\Users\Lenov o\Work1\PracticeWork2\bin\Debug\net9.0\PracticeWork2.dll
+C:\Users\Lenov o\Work1\PracticeWork2\bin\Debug\net9.0\PracticeWork2.pdb
+C:\Users\Lenov o\Work1\PracticeWork2\obj\Debug\net9.0\PracticeWork2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenov o\Work1\PracticeWork2\obj\Debug\net9.0\PracticeWork2.AssemblyInfoInputs.cache
+C:\Users\Lenov o\Work1\PracticeWork2\obj\Debug\net9.0\PracticeWork2.AssemblyInfo.cs
+C:\Users\Lenov o\Work1\PracticeWork2\obj\Debug\net9.0\PracticeWork2.csproj.CoreCompileInputs.cache
+C:\Users\Lenov o\Work1\PracticeWork2\obj\Debug\net9.0\PracticeWork2.dll
+C:\Users\Lenov o\Work1\PracticeWork2\obj\Debug\net9.0\refint\PracticeWork2.dll
+C:\Users\Lenov o\Work1\PracticeWork2\obj\Debug\net9.0\PracticeWork2.pdb
+C:\Users\Lenov o\Work1\PracticeWork2\obj\Debug\net9.0\PracticeWork2.genruntimeconfig.cache
+C:\Users\Lenov o\Work1\PracticeWork2\obj\Debug\net9.0\ref\PracticeWork2.dll
